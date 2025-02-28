@@ -1,0 +1,7 @@
+[tools]
+tuist = "prefix:4.43"
+
+[settings]
+jobs = 6
+http_timeout = "60"
+experimental = true
