@@ -19,7 +19,8 @@ let project = Project(
             sources: ["TuistSampleProject/Sources/**"],
             resources: ["TuistSampleProject/Resources/**"],
             dependencies: [
-                .external(name: "GoogleSignIn")
+                .external(name: "GoogleSignIn"),
+                .external(name: "UsercentricsWrapper"),
             ]
         ),
         .target(
