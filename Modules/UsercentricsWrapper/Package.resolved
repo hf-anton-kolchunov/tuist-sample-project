@@ -1,0 +1,24 @@
+{
+  "originHash" : "a6ebbd79e557d818095cec2784657e76b2a1440db6db1091e6e49c35baebd430",
+  "pins" : [
+    {
+      "identity" : "usercentrics-spm-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.org/usercentricscode/usercentrics-spm-sdk",
+      "state" : {
+        "revision" : "3ebfa6f90cdf824a5e9af4cfb173eaea0cd5f07c",
+        "version" : "2.15.0"
+      }
+    },
+    {
+      "identity" : "usercentrics-spm-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.org/usercentricscode/usercentrics-spm-ui",
+      "state" : {
+        "revision" : "3187aabe147e922c50cfc49c63626d82526a0949",
+        "version" : "2.15.0"
+      }
+    }
+  ],
+  "version" : 3
+}
