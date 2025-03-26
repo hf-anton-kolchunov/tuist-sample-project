@@ -9,7 +9,7 @@ let packageSettings = PackageSettings(
     // Default is .staticFramework
     // productTypes: ["Alamofire": .framework,]
     productTypes: [
-        "GoogleSignIn": .framework,
+        "GoogleSignIn": .staticFramework
     ]
 )
 #endif
